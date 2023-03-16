@@ -23,7 +23,7 @@ The Expense Tracker App was built using the following technologies:
 8. View the expenses in a bar chart format by clicking the "Bar Chart" button in the "Expense List" section.
 ## Screenshots
 ![image of Expense Tracker](/public/ExpenseTracker2.png)
-Link to the application:[Expense Tracker]()
+Link to the application:[Expense Tracker](https://splendid-klepon-cc8246.netlify.app)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
