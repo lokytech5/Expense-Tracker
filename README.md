@@ -22,7 +22,7 @@ The Expense Tracker App was built using the following technologies:
 7. View the total amount spent for a specific period by selecting the start and end dates in the "Total Expenses" section, then clicking the "Calculate" button.
 8. View the expenses in a bar chart format by clicking the "Bar Chart" button in the "Expense List" section.
 ## Screenshots
-[](/public/ExpenseTracker2.png)
+![image of Expense Tracker](/public/ExpenseTracker2.png)
 Link to the application:[Expense Tracker]()
 
 ## License
